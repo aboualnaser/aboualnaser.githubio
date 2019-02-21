@@ -7,7 +7,7 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>CVMOHAMAD</title>
+	<title>MackCooper</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -43,7 +43,7 @@
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">CVMOHAMAD</a>
+		         <a href="index.html">MackCooper</a>
 		      </div>
 
 		   	<nav id="main-nav-wrap">
@@ -71,12 +71,11 @@
 
    			<div class="col-twelve">
 
-	   			<h5>Hello, World.</h5>
-	   			<h1>I'm Mohamad Abou Alnaser.</h1>
+	   			<h5>Hello!</h5>
+	   			<h1>I'm Mack Cooper.</h1>
 
 	   			<p class="intro-position">
-	   				<span>Front-end Developer</span>
-	   				<span>Back-end Developer</span>
+	   				<span>Master of CS Student</span>
 	   			</p>
 
 	   			<a class="button stroke smoothscroll" href="#about" title="">En savoir plus</a>
@@ -98,26 +97,22 @@
    	<div class="row section-intro">
    		<div class="col-twelve">
 
-   			<h5>A PROPOS</h5>
-
+   			<h5>About Me</h5>
 
    			<div class="intro-info">
 
-   				<img src="images/MOHAMAD.png" alt="Profile Picture">
+   				<img src="images/profile.png" alt="Profile Picture">
 
-   				<p class="lead">Actuellement apprenant à
-Simplon.co en développement Web
-PHP, je recherche un emploi, à partir
-du mois d’octobre 2016, qui me
-permettrait dans un premier temps
-d’affiner mes compétences
-techniques et mes qualités
-professionnelles.
-J’habite actuellement dans la
-banlieue parisienne, mais je suis
-mobile. </p>
+   				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+				sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+				Gravida rutrum quisque non tellus orci. Tempus urna et pharetra pharetra 
+				massa. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. 
+				Pretium aenean pharetra magna ac. Pharetra sit amet aliquam id. Ut eu sem 
+				integer vitae justo eget magna fermentum. Sapien faucibus et molestie ac
+				feugiat sed. Dictum non consectetur a erat nam at. Arcu non odio euismod 
+				lacinia at. Vitae nunc sed velit dignissim sodales. Sit amet nisl purus in 
+				mollis.</p>
    			</div>
-
    		</div>
    	</div> <!-- /section-intro -->
 
@@ -130,24 +125,20 @@ mobile. </p>
 
    			<ul class="info-list">
    				<li>
-   					<strong>Nom et Prénom:</strong>
-   					<span>ABOU ALNASER Mohamad</span>
+   					<strong>Name:</strong>
+   					<span>Mack Cooper</span>
    				</li>
-   				<li>
-   					<strong>Date de naissance:</strong>
-   					<span>Né le : 15 / 09 / 1982</span>
-   				</li>
-                <li>
+                		<li>
    					<strong>Email:</strong>
-   					<span>m.aboualnasser@gmail.com</span>
+   					<span>email@email.email</span>
    				</li>
-                <li>
-   					<strong>Adress:</strong>
-   					<span>2 rue Barbes, 92 210 Montrouge</span>
+                		<li>
+   					<strong>Location:</strong>
+   					<span>Portland, OR</span>
    				</li>
    				<li>
    					<strong>Phone:</strong>
-   					<span>+ 33 6 27 76 01 44</span>
+   					<span>123-456-7890</span>
    				</li>
 
 
